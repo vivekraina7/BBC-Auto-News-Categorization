@@ -1,4 +1,4 @@
-# BBC-Auto-News-Categorization
+# BBC-Auto-News-Categorization🗞️
 ## Deep Learning Project: BBC Auto News Categorization using _RNN
 
 1. Developed a deep learning project to categorize BBC Auto News articles using RNN (Recurrent Neural Networks) and Python programming language.
